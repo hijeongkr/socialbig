@@ -1,2 +1,1 @@
-# socialbig
-socail big data practice
+# 소셜빅데이터 실습
